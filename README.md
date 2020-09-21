@@ -1,8 +1,12 @@
 # DeepLearing-ImageGenerator_test
 資料增強的實作練習
+
 內容裡有兩個ipynb檔
+
 1.New_Mangotest_crop_and_B7_4imageGenerator.ipynb
+
 2.New_Mangotest_crop_dataFrame.ipynb
+
 這兩個檔案所用到的資料皆為芒果品質辨識的訓練資料，因為比賽規定，故不放訓練資料出來。
 
 New_Mangotest_crop_and_B7_4imageGenerator.ipynb為flow_from_dataframe的使用實例
